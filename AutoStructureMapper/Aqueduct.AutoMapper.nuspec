@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>AutoStructureMapper</id>
+    <version>0.0.1.0</version>
+    <authors>Neil Duncan</authors>
+    <owners />
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>AutoMapper configuration for StructureMap</description>
+    <dependencies>
+      <dependency id="AutoMapper"/>
+      <dependency id="structuremap" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="bin\Release\AutoStructureMapper.dll" target="lib\net40\AutoStructureMapper.dll" />
+  </files>
+</package>
