@@ -4,9 +4,9 @@
     <id>AutoStructureMapper</id>
     <version>0.0.1.0</version>
     <authors>Neil Duncan</authors>
-    <owners />
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
-    <description>AutoMapper configuration for StructureMap</description>
+    <description>1-step automatic Structuremap configuration for AutoMapper.</description>
+	<tags>AutoMapper StructureMap</tags>
     <dependencies>
       <dependency id="AutoMapper"/>
       <dependency id="structuremap" />
