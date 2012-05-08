@@ -2,10 +2,11 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
   <metadata>
     <id>AutoStructureMapper</id>
-    <version>0.0.1.0</version>
+    <version>0.0.1.1</version>
     <authors>Neil Duncan</authors>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>1-step automatic Structuremap configuration for AutoMapper.</description>
+	<projectUrl>http://github.com/neilduncan/AutoStructureMapper#readme</projectUrl>
 	<tags>AutoMapper StructureMap</tags>
     <dependencies>
       <dependency id="AutoMapper"/>
